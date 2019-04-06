@@ -39,7 +39,7 @@ Empty file are "encrypted" with insert ASCII char "0" into ecrypted file.
 
 easyAES256 is a free software licensed by Zero Clause BSD.
 
-Copy of Zero Clause BSD license is present in ./LICENSE file.
+Copy of Zero Clause BSD license is present into source file.
 
 If you notice any violations by myself or by third parties, please contact me.
 
