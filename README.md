@@ -41,11 +41,5 @@ easyAES256 is a free software licensed by Zero Clause BSD.
 
 Copy of Zero Clause BSD license is present into source file.
 
-If you notice any violations by myself or by third parties, please contact me.
-
 The use of easyAES256 is at your own risk: read the license.
-
-Stefano Gorresio
-
-Email: stefano.gorresio@gmail.com
 
